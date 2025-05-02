@@ -1,0 +1,44 @@
+---
+title: "Data Analyst Expert Power BI"
+description: "🚀 Pilotez vos performances grâce à des dashboards percutants, clairs et orientés action 🎯" 
+image: img/alaya.png"
+about:
+  template: jolla
+  image-shape: round
+  image-width: 8em
+  links:
+     - icon: linkedin
+       aria-label: linkedin
+       href: https://www.linkedin.com/in/alaya-manaa-170aa182/
+       target: _blank
+     - icon: envelope
+       aria-label: Email
+       href: "mailto:hb.manaa.alaya@gmail.com"
+       target: _blank
+---
+
+
+***
+
+
+### 🔍 Plus de 6 ans d’expérience Power BI
+
+Mise en place des tableaux de bord interactifs et sur mesure chez
+
+![](img/adserviolyon_logo.jfif){width=40px height=40px style="vertical-align:top"} &nbsp;&nbsp;&nbsp; ![](img/audiens_logo.jfif){width=40px height=40px style="vertical-align:top"} &nbsp;&nbsp;&nbsp; ![](img/bnpparibascorporateandinstitutionalbanking_logo.jfif){width=40px height=40px style="vertical-align:top"} &nbsp;&nbsp;&nbsp; ![](img/egis_logo.jfif){width=40px height=40px style="vertical-align:top"} &nbsp;&nbsp;&nbsp; ![](img/el_e_logo.jfif){width=40px height=40px style="vertical-align:top"} &nbsp;&nbsp;&nbsp; ![](img/sade.jfif){width=40px height=40px style="vertical-align:top"}
+
+***
+
+### 🛠️ Mon stack analytique
+Outils & expertises au service de l’analyse, de la donnée brute à l’insight
+
+<i class="fa-solid fa-magnifying-glass-chart" style="font-size:15px;"></i> Analyse des données&nbsp;&nbsp;&nbsp;<i class="fa-solid fa-chart-line" style="font-size:15px;"></i> Business Intelligence&nbsp;&nbsp;&nbsp;<i class="fa-solid fa-database" style="font-size:15px;"></i> Data Warehouse&nbsp;&nbsp;&nbsp;<i class="fa-solid fa-chart-column" style="font-size:15px;"></i> Statistique&nbsp;&nbsp;&nbsp;<i class="fa-solid fa-chart-pie" style="font-size:15px;"></i> Data viz 
+
+
+
+![](img/pbi.png){width=50px height=40px style="vertical-align:top" fig-alt="pbi logo"} &nbsp;&nbsp;&nbsp; ![](img/DAX.png){width=40px height=40px style="vertical-align:top" fig-alt="dax logo"} 
+&nbsp;&nbsp;&nbsp; ![](img/pq.png){width=90px height=40px style="vertical-align:top" fig-alt="pq logo"} &nbsp;&nbsp;&nbsp; ![](img/pauto.png){width=40px height=40px style="vertical-align:top" fig-alt="pq logo"} &nbsp;&nbsp;&nbsp; ![](img/pplat.png){width=40px height=40px style="vertical-align:top" fig-alt="pq logo"} &nbsp;&nbsp;&nbsp; ![](img/sql.png){width=40px height=40px style="vertical-align:top" fig-alt="pq logo"} &nbsp;&nbsp;&nbsp; <i class="fa-brands fa-r-project" style="font-size:40px;vertical-align:top;"></i> &nbsp;&nbsp;&nbsp; <i class="fa-brands fa-python" style="font-size:40px;vertical-align:top;"></i>
+
+
+
+

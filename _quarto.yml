@@ -1,0 +1,52 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: Alaya Manaa
+  favicon: img/alaya.png
+  page-navigation: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: Accueil 
+      - href: cv.qmd
+        text: CV 
+      - href: projet.qmd
+        text: Projets
+    right: 
+      - icon: linkedin
+        target: _blank
+        href: https://www.linkedin.com/in/alaya-manaa-170aa182/
+      - href: mailto:hb.manaa.alaya@gmail.com
+        icon: envelope
+        target: _blank
+         
+
+       
+
+  page-footer: 
+    left: "© 2025 Alaya Manaa"
+
+format:
+  html:
+    theme:
+      - darkly
+      - brand
+    css: styles.css
+    lang: fr
+    toc: false
+    include-in-header:
+      - text: |
+          <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet">
+          <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet"/>
+
+
+execute: 
+  freeze: auto   
+
+
+
+
+
+

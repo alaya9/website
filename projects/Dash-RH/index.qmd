@@ -1,0 +1,11 @@
+---
+toc: true
+categories: 
+  - PowerBi
+  - UI/UX
+  - RH
+date: '2025-05-02'
+title: "Dashboards RH"
+description: "Mise en place d’une gouvernance BI orientée RH"
+image: rh.png
+---

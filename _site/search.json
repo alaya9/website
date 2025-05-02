@@ -1,0 +1,142 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Data Analyst Expert Power BI",
+    "section": "",
+    "text": "🔍 Plus de 6 ans d’expérience Power BI\nMise en place des tableaux de bord interactifs et sur mesure chez\n                         \n\n\n\n🛠️ Mon stack analytique\nOutils & expertises au service de l’analyse, de la donnée brute à l’insight\n Analyse des données    Business Intelligence    Data Warehouse    Statistique    Data viz"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Data Analyst Expert Power BI ",
+    "section": "",
+    "text": "Expert Power BI avec 6 ans d’expérience, spécialisé dans la transformation des données complexes en visualisations claires et interactives. Compétent en optimisation de rapports, intégration de sources multiples et création de tableaux de bord personnalisés pour une prise de décision rapide. Passionné par l’exploitation des données pour générer des insights stratégiques et opérationnels."
+  },
+  {
+    "objectID": "cv.html#expériences-professionnelles",
+    "href": "cv.html#expériences-professionnelles",
+    "title": "Data Analyst Expert Power BI ",
+    "section": "💼 Expériences professionnelles",
+    "text": "💼 Expériences professionnelles\n\nEGIS SA \nData Analyst Expert Power BI 📅 Juin 2024 – Déc 2024  Paris, France\n\n\nAnimation d’ateliers de cadrage et d’analyse des besoins\nConception et déploiement de dashboards Power BI pour le suivi des KPIs stratégiques\n\nRéalisation d’audits techniques des rapports existants afin d’en améliorer la performance et l’utilisabilité\n\nRefonte de modèles de données, création de mesures DAX avancées, mise en œuvre de fonctionnalités (drillthrough, navigation, RLS)\n\nStructuration des espaces de travail Power BI (Workspaces, Sécurité, Gouvernance)\n\nFormation des utilisateurs et production de documentation clair, orientée métier\n\n✅Résultats clés : Amélioration de la lisibilité, réduction des délais de reporting, adoption renforcée par les équipes métier\n🛠️Environnement : Power BI Desktop, Power BI Report Server, SQL Server, MySQL, Visual Studio, DAX Studio\n\n\n\n\nHillstone \nData Analyst Expert Power BI 📅 Mai 2023 – Déc 2023  Paris, France\n\n\nRefonte de rapports Power BI pour Sanofi : nettoyage, simplification, amélioration des performances\nStandardisation des templates Power BI pour garantir une cohérence d’usage\n\nAutomatisation de flux de validation (congés, demandes RH) via Power Automate\n\nDéveloppement d’une application interne de suivi des demandes de support technique\n\n✅Résultats clés : meilleure performance des rapports, adoption des standards visuels, montée en compétences des équipes internes\n🛠️Environnement : Power BI, DAX Studio, Power Automate, Power Apps, SSIS, SQL Server\n\n\n\n\nAudiens \nData Analyst / Data Scientist 📅 Janv. 2023 – Avr. 2023  Paris, France\n\n\nTraduction des besoins métiers à partir de rapports SAS\n\nDéveloppement de dashboards avec indicateurs clés, structuration des sources de données SAS\n\nAccompagnement des utilisateurs dans la transition vers Power BI\n\n✅Résultats clés : modernisation du reporting, amélioration de la lisibilité, transition réussie vers l’écosystème Microsoft BI\n🛠️Environnement : Power BI, SAS Enterprise Guide, SQL Server\n\n\n\n\nBNP Paribas \nData Analyst Expert Power BI 📅 Mars 2022 – Nov 2022  Paris, France\n\n\nRecueil de besoins, traduction en user stories et estimations de charge dans un contexte agile\n\nCréation de vues matérialisées pour optimiser l’alimentation des rapports\n\nMise en place de documentation et transfert de compétences vers l’équipe produit\n\n✅Résultats clés : amélioration de la rapidité d’accès aux données, fiabilité accrue des rapports métier\n🛠️Environnement : Power BI, Oracle, SQL, DAX\n\n\n\n\nEGIS \nData Analyst Expert Power BI 📅 Mai 2019 – Janv. 2022  Paris, France\n\n\nConception de rapports complexes avec DAX\n\nEncadrement d’équipe, suivi des livrables et coordination projet\n\nRefonte de l’architecture BI avec meilleure gouvernance des données\n\n✅Résultats clés : amélioration de la fiabilité BI, meilleure réactivité aux besoins métiers\n🛠️Environnement : Power BI, SSIS, SQL Server, Oracle, R\n\n\n\n\nHillstone (Interne) \nData Analyst / Data Scientist 📅 Sept. 2018 – Mars 2019  Paris, France\n\n\nStructuration d’un entrepôt de données RH\n\nCréation de KPIs RH : turnover, ancienneté, effectifs, recrutement\n\nMise en place d’une gouvernance BI orientée RH\n\n✅Résultats clés : meilleure lisibilité des indicateurs RH, valorisation des données sociales\n🛠️Environnement : Power BI, SQL Server, SSIS, Visual Studio\n\n\n\n\nElée \nData Scientist / Data Analyst – Paris, France 📅 Nov. 2017 – Juin 2018  Paris, France\n\n\nDéveloppement d’outils de traitement de données avec le package dplyr\nAmélioration de la traçabilité et de la qualité des données\n\n✅Résultats clés : gains de productivité et fiabilisation des données techniques\n🛠️Environnement : R, RStudio\n\n\n\n\nSADE \nData Scientist / Data Analyst 📅 Avr. 2017 – Nov 2017  Paris, France\n\n\nExtraction SQL, traitement avec dplyr, analyses descriptives et visualisation sous R Shiny\n\n✅Résultats clés : amélioration de la qualité des analyses, mise à disposition d’un outil de visualisation interactif\n🛠️Environnement : SQL Server, R, Shiny, RStudio"
+  },
+  {
+    "objectID": "cv.html#envirennement-technique",
+    "href": "cv.html#envirennement-technique",
+    "title": "Data Scientist/Analyst",
+    "section": "Envirennement technique",
+    "text": "Envirennement technique\nR, SQL, Python, Datatiku, SAS, Snowflake  TIDYVERSE, SHINY, RMARKDOWN, PANDAS,NUMPY …\n{{&lt; fa solid check size=Small &gt;}} Clustering, Scoring  {{&lt; fa solid check size=Small &gt;}} Data management, Statistiques descriptives, Machine learning, Reportings interactifs"
+  },
+  {
+    "objectID": "cv.html#formation",
+    "href": "cv.html#formation",
+    "title": "Data Analyst Expert Power BI ",
+    "section": "🎓 Formation",
+    "text": "🎓 Formation\nMASTER 2 STATISTIQUE Université de Lorraine, France 2016 — 2017  INGÉNIEUR EN STATISTIQUE  ESSAIT Tunis, Tunisie 2012 — 2015 CLASSE PRÉPARATOIRE MATH‑PHYSIQUE  Ecole préparatoire Monastire, Tunisie 2010 — 2012"
+  },
+  {
+    "objectID": "cv.html#centres-dintérêt",
+    "href": "cv.html#centres-dintérêt",
+    "title": "Data Scientist/Analyst",
+    "section": "Centres d’intérêt",
+    "text": "Centres d’intérêt\nPBC3‑Club de basket‑ball Joueur de basket-ball  Art génerative Création artistique à l’aide d’algorithmes\n:::"
+  },
+  {
+    "objectID": "cv.html#egis-sa",
+    "href": "cv.html#egis-sa",
+    "title": "Data Analyst Expert Power BI",
+    "section": "EGIS SA",
+    "text": "EGIS SA\nData Analyst Expert Power BI – Paris, France\n📅 Juin 2024 – Déc 2024 {.cvdate}\n\nRecueil des besoins métier (Finance, RH, Opérations)\n\nConception et optimisation de dashboards Power BI (KPI, DAX, UX)\n\nAudit et refonte des rapports existants\n\nStructuration des workspaces et sécurité (RLS, rôles)\n\nFormation et documentation pour les utilisateurs\n\n✅ Résultats : gain de temps, meilleure visibilité, autonomie accrue"
+  },
+  {
+    "objectID": "cv.html#hillstone",
+    "href": "cv.html#hillstone",
+    "title": "Data Analyst Expert Power BI",
+    "section": "Hillstone",
+    "text": "Hillstone\nData Analyst Expert Power BI – Paris, France\n📅 Mai 2023 – Déc 2023\n\nAudit des rapports Power BI pour Sanofi\n\nOptimisation : DAX, correction d’anomalies, standardisation visuelle\n\nCréation de dashboards, templates, automatisations (Power Automate)\n\nDéveloppement d’une application Power Platform\n\nTransmission des bonnes pratiques aux juniors\n\n✅ Résultats : performance accrue, homogénéité, montée en compétences"
+  },
+  {
+    "objectID": "cv.html#audiens-hillstone",
+    "href": "cv.html#audiens-hillstone",
+    "title": "Data Analyst Expert Power BI",
+    "section": "Audiens / Hillstone",
+    "text": "Audiens / Hillstone\nData Analyst / Data Scientist – Paris, France\n📅 Janv. 2023 – Avr. 2023\n\nReprise des besoins métier à partir de rapports SAS\n\nCréation de la chaîne de données SAS → Power BI\n\nDashboards Power BI avec DAX et templates\n\n✅ Résultats : reporting modernisé, adoption facilitée"
+  },
+  {
+    "objectID": "cv.html#bnp-paribas-hillstone",
+    "href": "cv.html#bnp-paribas-hillstone",
+    "title": "Data Analyst Expert Power BI",
+    "section": "BNP Paribas / Hillstone",
+    "text": "BNP Paribas / Hillstone\nData Analyst Expert Power BI – Paris, France\n📅 Mars 2022 – Nov 2022\n\nRecueil des besoins en agile\n\nDéfinition & modélisation des données\n\nPower BI : vues matérialisées, optimisation\n\n✅ Résultats : fiabilité et performance des rapports"
+  },
+  {
+    "objectID": "cv.html#egis-hillstone",
+    "href": "cv.html#egis-hillstone",
+    "title": "Data Analyst Expert Power BI",
+    "section": "EGIS / Hillstone",
+    "text": "EGIS / Hillstone\nData Analyst Expert Power BI – Paris, France\n📅 Mai 2019 – Janv. 2022\n\nGestion de projets BI avec 2 développeurs\n\nApplications : RH, audience web, tickets support\n\nDocumentation, analyses ad hoc, insights stratégiques\n\n✅ Résultats : outils robustes, valorisation des données internes"
+  },
+  {
+    "objectID": "cv.html#hillstone-interne",
+    "href": "cv.html#hillstone-interne",
+    "title": "Data Analyst Expert Power BI",
+    "section": "Hillstone (Interne)",
+    "text": "Hillstone (Interne)\nData Analyst / Data Scientist – Paris, France\n📅 Sept. 2018 – Mars 2019\n\nProjet décisionnel RH\n\nModèles de données et centralisation\n\nDéveloppement de KPIs RH et dashboards Power BI\n\n✅ Résultats : meilleure qualité des données, RH optimisé"
+  },
+  {
+    "objectID": "cv.html#elée-hillstone",
+    "href": "cv.html#elée-hillstone",
+    "title": "Data Analyst Expert Power BI",
+    "section": "Elée / Hillstone",
+    "text": "Elée / Hillstone\nData Scientist / Data Analyst – Paris, France\n📅 Nov. 2017 – Juin 2018\n\nApplication R pour transformation automatisée\n\ndplyr, templates standardisés\n\n✅ Résultats : rapidité, qualité et traçabilité améliorées"
+  },
+  {
+    "objectID": "cv.html#sade",
+    "href": "cv.html#sade",
+    "title": "Data Analyst Expert Power BI",
+    "section": "SADE",
+    "text": "SADE\nData Scientist / Data Analyst – Paris, France\n📅 Avr. 2017 – Nov 2017\n\nAnalyse des études issues de Protée\n\nSQL Server, dplyr, segmentation\n\nApplication Shiny de visualisation\n\n✅ Résultats : appui renforcé à la décision"
+  },
+  {
+    "objectID": "cv.html#résumé",
+    "href": "cv.html#résumé",
+    "title": "Data Analyst Expert Power BI",
+    "section": "🧠 Résumé",
+    "text": "🧠 Résumé\n\nExpert Power BI avec 6 ans d’expérience, spécialisé dans la transformation des données complexes en visualisations claires et interactives.\nCompétent en optimisation de rapports, intégration de sources multiples et création de tableaux de bord personnalisés pour une prise de décision rapide.\nPassionné par l’exploitation des données pour générer des insights stratégiques et opérationnels."
+  },
+  {
+    "objectID": "cv.html#compétences-techniques",
+    "href": "cv.html#compétences-techniques",
+    "title": "Data Analyst Expert Power BI ",
+    "section": "🛠️ Compétences techniques",
+    "text": "🛠️ Compétences techniques\n\nPower BI : Power BI Desktop, Power BI Report Server, Power BI Service\n\nLangages & outils liés à Power BI : DAX, DAX Studio, Langage M, Power Query\n\nPower Platform : Power Automate, Power Apps\n\nBases de données : SQL Server, Oracle, MySQL\n\nOutils de développement : Visual Studio, SSIS, SSAS\nLangages statistiques & data science : R, Python"
+  },
+  {
+    "objectID": "projet.html",
+    "href": "projet.html",
+    "title": " Projets",
+    "section": "",
+    "text": "Statistique d’audience\n\n\n\nPowerBi\n\nUI/UX\n\nAudience\n\n\n\nAnalyse du trafic web\n\n\n\n\n\n\n\n\n\n\n\n\nDashboards RH\n\n\n\nPowerBi\n\nUI/UX\n\nRH\n\n\n\nMise en place d’une gouvernance BI orientée RH\n\n\n\n\n\n\n\n\n\n\n\n\nTemplates Power BI\n\n\n\nPowerBi\n\nUI/UX\n\n\n\nStandardisation des templates Power BI pour garantir une cohérence d’usage\n\n\n\n\n\nAucun article correspondant"
+  },
+  {
+    "objectID": "projets/index.html",
+    "href": "projets/index.html",
+    "title": "Projets",
+    "section": "",
+    "text": "PowerBi\n\n\nPowerBi\n\n\n\nPowerBi\n\n\n\n\n\n\n\n\n\nAucun article correspondant"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projets",
+    "section": "",
+    "text": "PowerBi\n\n\nPowerBi\n\n\n\nPowerBi\n\n\n\n\n\n\n\n\n\nAucun article correspondant"
+  }
+]

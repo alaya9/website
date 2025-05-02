@@ -1,0 +1,160 @@
+---
+title: 'Data Analyst Expert Power BI ![](img/pbi.png){width=50px height=40px style="vertical-align:top" fig-alt="pbi logo"}'
+format:
+  html:
+    toc: true
+css: cv.css
+---
+
+<img src="img/alaya.png"  class="imgcv">
+<br>
+
+
+<p class="auto">  
+Expert Power BI avec 6 ans d'expérience, spécialisé dans la transformation des données complexes en visualisations claires et interactives. Compétent en optimisation de rapports, intégration de sources multiples et création de tableaux de bord personnalisés pour une prise de décision rapide. Passionné par l’exploitation des données pour générer des insights stratégiques et opérationnels. </p>
+
+---
+
+## 💼 Expériences professionnelles
+
+### EGIS SA  [![](img/egis_logo.jfif){width=20px height=20px  style="vertical-align:center"}]{.cvdate}  
+**Data Analyst Expert Power BI**  [📅 Juin 2024 – Déc 2024 <br> Paris, France]{.cvdate}
+
+::: {.exp-section}
+
+- Animation d’ateliers de cadrage et d’analyse des besoins
+- Conception et déploiement de dashboards Power BI pour le suivi des KPIs stratégiques  
+- Réalisation d’audits techniques des rapports existants afin d’en améliorer la performance et l’utilisabilité  
+- Refonte de modèles de données, création de mesures DAX avancées, mise en œuvre de fonctionnalités (drillthrough, navigation, RLS)  
+- Structuration des espaces de travail Power BI (Workspaces, Sécurité, Gouvernance)  
+- Formation des utilisateurs et production de documentation clair, orientée métier 
+
+✅**Résultats clés** : Amélioration de la lisibilité, réduction des délais de reporting, adoption renforcée par les équipes métier  
+🛠️**Environnement** : Power BI Desktop, Power BI Report Server, SQL Server, MySQL, Visual Studio, DAX Studio  
+
+::: 
+---
+
+### Hillstone  [![](img/adserviolyon_logo.jfif){width=20px height=20px  style="vertical-align:center"}]{.cvdate} 
+**Data Analyst Expert Power BI**  [📅 Mai 2023 – Déc 2023 <br> Paris, France]{.cvdate}
+
+::: {.exp-section}
+
+- Refonte de rapports Power BI pour Sanofi : nettoyage, simplification, amélioration des performances
+- Standardisation des templates Power BI pour garantir une cohérence d’usage  
+- Automatisation de flux de validation (congés, demandes RH) via Power Automate  
+- Développement d’une application interne de suivi des demandes de support technique  
+
+✅**Résultats clés** : meilleure performance des rapports, adoption des standards visuels, montée en compétences des équipes internes  
+🛠️**Environnement** : Power BI, DAX Studio, Power Automate, Power Apps, SSIS, SQL Server  
+::: 
+---
+
+
+### Audiens [![](img/audiens_logo.jfif){width=20px height=20px  style="vertical-align:center"}]{.cvdate}  {style="page-break-before: always"}
+**Data Analyst / Data Scientist**  [📅 Janv. 2023 – Avr. 2023 <br> Paris, France]{.cvdate}
+
+::: {.exp-section}
+
+- Traduction des besoins métiers à partir de rapports SAS  
+- Développement de dashboards avec indicateurs clés, structuration des sources de données SAS  
+- Accompagnement des utilisateurs dans la transition vers Power BI  
+
+✅**Résultats clés** : modernisation du reporting, amélioration de la lisibilité, transition réussie vers l’écosystème Microsoft BI  
+🛠️**Environnement** : Power BI, SAS Enterprise Guide, SQL Server  
+
+:::
+
+---
+
+### BNP Paribas [![](img/bnpparibascorporateandinstitutionalbanking_logo.jfif){width=20px height=20px  style="vertical-align:center"}]{.cvdate}   
+**Data Analyst Expert Power BI**  [📅 Mars 2022 – Nov 2022 <br> Paris, France]{.cvdate}
+
+::: {.exp-section}
+
+- Recueil de besoins, traduction en user stories et estimations de charge dans un contexte agile  
+- Création de vues matérialisées pour optimiser l’alimentation des rapports  
+- Mise en place de documentation et transfert de compétences vers l’équipe produit  
+
+✅**Résultats clés** : amélioration de la rapidité d’accès aux données, fiabilité accrue des rapports métier  
+🛠️**Environnement** : Power BI, Oracle, SQL, DAX  
+:::
+---
+
+### EGIS [![](img/egis_logo.jfif){width=20px height=20px  style="vertical-align:center"}]{.cvdate}   
+**Data Analyst Expert Power BI** [📅 Mai 2019 – Janv. 2022 <br> Paris, France]{.cvdate}
+
+::: {.exp-section}
+
+- Conception de rapports complexes avec DAX  
+- Encadrement d’équipe, suivi des livrables et coordination projet  
+- Refonte de l’architecture BI avec meilleure gouvernance des données  
+
+✅**Résultats clés** : amélioration de la fiabilité BI, meilleure réactivité aux besoins métiers  
+🛠️**Environnement** : Power BI, SSIS, SQL Server, Oracle, R  
+:::
+
+---
+
+### Hillstone (Interne)  [![](img/adserviolyon_logo.jfif){width=20px height=20px  style="vertical-align:center"}]{.cvdate}   
+**Data Analyst / Data Scientist**  [📅 Sept. 2018 – Mars 2019 <br> Paris, France]{.cvdate}
+
+::: {.exp-section}
+
+- Structuration d’un entrepôt de données RH  
+- Création de KPIs RH : turnover, ancienneté, effectifs, recrutement  
+- Mise en place d’une gouvernance BI orientée RH  
+
+✅**Résultats clés** : meilleure lisibilité des indicateurs RH, valorisation des données sociales  
+🛠️**Environnement** : Power BI, SQL Server, SSIS, Visual Studio
+:::
+
+---
+
+### Elée [![](img/el_e_logo.jfif){width=20px height=20px  style="vertical-align:center"}]{.cvdate} {style="page-break-before: always"}
+**Data Scientist / Data Analyst – Paris, France**  [📅 Nov. 2017 – Juin 2018 <br> Paris, France]{.cvdate}
+
+::: {.exp-section}
+
+- Développement d’outils de traitement de données avec le package dplyr 
+- Amélioration de la traçabilité et de la qualité des données  
+
+✅**Résultats clés** : gains de productivité et fiabilisation des données techniques  
+🛠️**Environnement** : R, RStudio  
+:::
+
+---
+
+### SADE  [![](img/sade.jfif){width=20px height=20px  style="vertical-align:center"}]{.cvdate} 
+**Data Scientist / Data Analyst** [📅 Avr. 2017 – Nov 2017 <br> Paris, France]{.cvdate} 
+
+::: {.exp-section}
+
+- Extraction SQL, traitement avec dplyr, analyses descriptives et visualisation sous R Shiny  
+
+✅**Résultats clés** : amélioration de la qualité des analyses, mise à disposition d’un outil de visualisation interactif  
+🛠️**Environnement** : SQL Server, R, Shiny, RStudio
+:::
+
+---
+
+## 🎓 Formation
+
+**MASTER 2 STATISTIQUE** <br>*Université de Lorraine, France*  [*2016 --- 2017*]{.cvdate} <br>
+**INGÉNIEUR EN STATISTIQUE** <br> *ESSAIT Tunis, Tunisie*  [*2012 --- 2015*]{.cvdate}<br>
+**CLASSE PRÉPARATOIRE MATH‑PHYSIQUE**  <br> *Ecole préparatoire Monastire, Tunisie*  [*2010 --- 2012*]{.cvdate} 
+
+---
+
+## 🛠️ Compétences techniques
+
+- **Power BI** : Power BI Desktop, Power BI Report Server, Power BI Service  
+- **Langages & outils liés à Power BI** : DAX, DAX Studio, Langage M, Power Query  
+- **Power Platform** : Power Automate, Power Apps  
+- **Bases de données** : SQL Server, Oracle, MySQL  
+- **Outils de développement** : Visual Studio, SSIS, SSAS
+- **Langages statistiques & data science** : R, Python  
+
+
+---
+
