@@ -7,5 +7,5 @@ categories:
 date: '2025-05-02'
 title: "Statistique d’audience"
 description: "Analyse du trafic web"
-image: au.png
+image: aud.png
 ---
