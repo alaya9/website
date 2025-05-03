@@ -5,7 +5,7 @@ categories:
   - UI/UX
   - Audience
 date: '2025-05-02'
-title: "Statistique d’audience"
+title: "Statistiques d’audiences"
 description: "Analyse du trafic web"
 image: aud.png
 ---
