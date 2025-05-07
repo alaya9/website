@@ -7,4 +7,5 @@ date: '2025-05-02'
 title: "Templates Power BI"
 description: "Standardisation des templates Power BI pour garantir une cohérence d’usage"
 image: ui.png
+draft: true
 ---

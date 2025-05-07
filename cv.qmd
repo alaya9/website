@@ -13,6 +13,10 @@ css: cv.css
 <p class="auto">  
 Expert Power BI avec 6 ans d'expérience, spécialisé dans la transformation des données complexes en visualisations claires et interactives. Compétent en optimisation de rapports, intégration de sources multiples et création de tableaux de bord personnalisés pour une prise de décision rapide. Passionné par l’exploitation des données pour générer des insights stratégiques et opérationnels. </p>
 
+<a class="btn btn-primary" href="Alaya_MANAA_CV.pdf" download role="button">
+  📄 Télécharger mon CV (version courte)
+</a>
+
 ---
 
 ## 💼 Expériences professionnelles
@@ -22,12 +26,13 @@ Expert Power BI avec 6 ans d'expérience, spécialisé dans la transformation de
 
 ::: {.exp-section}
 
-- Animation d’ateliers de cadrage et d’analyse des besoins
-- Conception et déploiement de dashboards Power BI pour le suivi des KPIs stratégiques  
-- Réalisation d’audits techniques des rapports existants afin d’en améliorer la performance et l’utilisabilité  
-- Refonte de modèles de données, création de mesures DAX avancées, mise en œuvre de fonctionnalités (drillthrough, navigation, RLS)  
-- Structuration des espaces de travail Power BI (Workspaces, Sécurité, Gouvernance)  
-- Formation des utilisateurs et production de documentation clair, orientée métier 
+- Analyse des besoins métier pour la création et l’évolution de rapports décisionnels.
+- Conception, développement et déploiement de dashboards Power BI destinés au suivi des KPIs stratégiques.
+- Évaluation technique et fonctionnelle des rapports Power BI existants : performance, pertinence visuelle et ergonomie.
+- Optimisation des solutions BI : correction des bugs, refonte des requêtes DAX, simplification et harmonisation des visuels.
+- Développement de mesures DAX complexes, implémentation de fonctionnalités avancées (drillthrough, custom tooltips).
+- Structuration et sécurisation de l’espace de travail Power BI (rôles utilisateurs, Row Level Security RLS).
+- Formation des utilisateurs finaux aux outils Power BI et rédaction de la documentation technique et utilisateur.
 
 ✅**Résultats clés** : Amélioration de la lisibilité, réduction des délais de reporting, adoption renforcée par les équipes métier  
 🛠️**Environnement** : Power BI Desktop, Power BI Report Server, SQL Server, MySQL, Visual Studio, DAX Studio  
@@ -40,10 +45,12 @@ Expert Power BI avec 6 ans d'expérience, spécialisé dans la transformation de
 
 ::: {.exp-section}
 
-- Refonte de rapports Power BI pour Sanofi : nettoyage, simplification, amélioration des performances
-- Standardisation des templates Power BI pour garantir une cohérence d’usage  
-- Automatisation de flux de validation (congés, demandes RH) via Power Automate  
-- Développement d’une application interne de suivi des demandes de support technique  
+- Audit et optimisation des solutions Power BI pour Sanofi, incluant des revues techniques et visuelles des rapports existants.
+- Implémentation des optimisations : correction des anomalies, amélioration des requêtes DAX et rationalisation des visuels pour une meilleure performance.
+- Conception de tableaux de bord interactifs et création de templates Power BI adaptés aux besoins spécifiques de Sanofi.
+- Partage des bonnes pratiques Power BI auprès des profils juniors, contribuant à la capitalisation des connaissances internes.
+- Automatisation des processus via Power Automate, incluant la validation des congés chez Hillstone.
+- Développement d’une application sur mesure pour le suivi des demandes de support technique chez Hillstone.
 
 ✅**Résultats clés** : meilleure performance des rapports, adoption des standards visuels, montée en compétences des équipes internes  
 🛠️**Environnement** : Power BI, DAX Studio, Power Automate, Power Apps, SSIS, SQL Server  
@@ -51,14 +58,15 @@ Expert Power BI avec 6 ans d'expérience, spécialisé dans la transformation de
 ---
 
 
-### Audiens [![](img/audiens_logo.jfif){width=20px height=20px  style="vertical-align:center"}]{.cvdate}  {style="page-break-before: always"}
+### Audiens [![](img/audiens_logo.jfif){width=20px height=20px  style="vertical-align:center"}]{.cvdate}  
 **Data Analyst / Data Scientist**  [📅 Janv. 2023 – Avr. 2023 <br> Paris, France]{.cvdate}
 
 ::: {.exp-section}
 
-- Traduction des besoins métiers à partir de rapports SAS  
-- Développement de dashboards avec indicateurs clés, structuration des sources de données SAS  
-- Accompagnement des utilisateurs dans la transition vers Power BI  
+- Reprise et priorisation des besoins métiers à partir des rapports SAS existants.
+- Définition de la chaîne d’alimentation des données et création des tables sur SAS.
+- Développement de dashboards Power BI : mesures DAX, visuels adaptés, templates personnalisés.
+- Reproduction fidèle des rapports clés et transfert de compétences aux utilisateurs.
 
 ✅**Résultats clés** : modernisation du reporting, amélioration de la lisibilité, transition réussie vers l’écosystème Microsoft BI  
 🛠️**Environnement** : Power BI, SAS Enterprise Guide, SQL Server  
@@ -72,9 +80,13 @@ Expert Power BI avec 6 ans d'expérience, spécialisé dans la transformation de
 
 ::: {.exp-section}
 
-- Recueil de besoins, traduction en user stories et estimations de charge dans un contexte agile  
-- Création de vues matérialisées pour optimiser l’alimentation des rapports  
-- Mise en place de documentation et transfert de compétences vers l’équipe produit  
+- Animation d’ateliers de recueil et de formalisation des besoins avec les Business Analysts.
+- Contribution à la planification agile du projet, découpage en User Stories et estimation des charges.
+- Définition des besoins en données et mise en place de solutions techniques pour leur collecte et traitement.
+- Conception de modèles de données adaptés aux cas d’usage, rédaction de la documentation technique associée.
+- Développement et maintenance de rapports Power BI : création de mesures DAX complexes, optimisation des performances et création de visuels interactifs adaptés.
+- Création de vues matérialisées pour optimiser l’alimentation et la rapidité des rapports.
+
 
 ✅**Résultats clés** : amélioration de la rapidité d’accès aux données, fiabilité accrue des rapports métier  
 🛠️**Environnement** : Power BI, Oracle, SQL, DAX  
@@ -86,9 +98,14 @@ Expert Power BI avec 6 ans d'expérience, spécialisé dans la transformation de
 
 ::: {.exp-section}
 
-- Conception de rapports complexes avec DAX  
-- Encadrement d’équipe, suivi des livrables et coordination projet  
-- Refonte de l’architecture BI avec meilleure gouvernance des données  
+- Recueil et formalisation des besoins métiers à travers des échanges directs avec les utilisateurs.
+- Coordination d’une équipe de deux développeurs BI, suivi de l’avancement des projets et respect des délais.
+- Chiffrage et estimation des charges pour les développements BI.
+- Conception de modèles de données optimisés et rédaction de la documentation technique.
+- Développement et maintenance de rapports Power BI complexes, incluant des mesures DAX avancées et des visuels interactifs adaptés aux besoins métiers.
+- Gestion de Power BI Report Server pour la publication, l’administration et la sécurité des rapports Power BI.
+- Analyse des données pour l’extraction d’insights stratégiques et gestion des demandes ad hoc liées à la qualité des données.
+
 
 ✅**Résultats clés** : amélioration de la fiabilité BI, meilleure réactivité aux besoins métiers  
 🛠️**Environnement** : Power BI, SSIS, SQL Server, Oracle, R  
@@ -96,14 +113,20 @@ Expert Power BI avec 6 ans d'expérience, spécialisé dans la transformation de
 
 ---
 
-### Hillstone (Interne)  [![](img/adserviolyon_logo.jfif){width=20px height=20px  style="vertical-align:center"}]{.cvdate}   
+### Hillstone (Interne)  [![](img/adserviolyon_logo.jfif){width=20px height=20px  style="vertical-align:center"}]{.cvdate}   {style="page-break-before: always"}
 **Data Analyst / Data Scientist**  [📅 Sept. 2018 – Mars 2019 <br> Paris, France]{.cvdate}
 
 ::: {.exp-section}
 
-- Structuration d’un entrepôt de données RH  
-- Création de KPIs RH : turnover, ancienneté, effectifs, recrutement  
-- Mise en place d’une gouvernance BI orientée RH  
+- Recueil, compréhension et formalisation des besoins métiers RH ; rédaction des spécifications techniques.
+- Suivi quotidien du projet, coordination de l’équipe et distribution des tâches.
+- Transmission des connaissances aux utilisateurs finaux et rédaction de la documentation.
+- Optimisation des modèles de données RH et définition de la chaîne d’alimentation des données.
+- Élaboration de stratégies d’intégration et d’analyse de données pour les processus RH.
+- Extraction, nettoyage et centralisation des données dans un entrepôt de données unique.
+- Création de mesures calculées, groupes de mesures et KPIs adaptés au pilotage RH.
+- Conception et déploiement de dashboards Power BI pour le suivi décisionnel en temps réel des activités RH.
+ 
 
 ✅**Résultats clés** : meilleure lisibilité des indicateurs RH, valorisation des données sociales  
 🛠️**Environnement** : Power BI, SQL Server, SSIS, Visual Studio
@@ -111,13 +134,17 @@ Expert Power BI avec 6 ans d'expérience, spécialisé dans la transformation de
 
 ---
 
-### Elée [![](img/el_e_logo.jfif){width=20px height=20px  style="vertical-align:center"}]{.cvdate} {style="page-break-before: always"}
+### Elée [![](img/el_e_logo.jfif){width=20px height=20px  style="vertical-align:center"}]{.cvdate} 
 **Data Scientist / Data Analyst – Paris, France**  [📅 Nov. 2017 – Juin 2018 <br> Paris, France]{.cvdate}
 
 ::: {.exp-section}
 
-- Développement d’outils de traitement de données avec le package dplyr 
-- Amélioration de la traçabilité et de la qualité des données  
+- Recueil et compréhension des besoins liés au traitement et à la fiabilité des données VMware.
+- Participation au développement d’une application de transformation des données.
+- Automatisation des processus de traitement des données VMware à l’aide du package dplyr sous R.
+- Réponse aux demandes ad hoc concernant la qualité, le nettoyage et la préparation des données.
+- Consolidation des données au sein d’un template standardisé pour uniformiser les livrables.
+- Rédaction de la documentation utilisateur et du code R pour garantir la maintenabilité.
 
 ✅**Résultats clés** : gains de productivité et fiabilisation des données techniques  
 🛠️**Environnement** : R, RStudio  
@@ -130,7 +157,11 @@ Expert Power BI avec 6 ans d'expérience, spécialisé dans la transformation de
 
 ::: {.exp-section}
 
-- Extraction SQL, traitement avec dplyr, analyses descriptives et visualisation sous R Shiny  
+- Extraction et formatage des données à partir de SQL Server.
+- Traitement des données à l’aide du package dplyr en R.
+- Analyse statistique des études des affaires et création d’une cartographie.
+- Segmentation des affaires pour identifier des tendances clés.
+- Création d’une application Shiny Dashboard pour la visualisation des résultats. 
 
 ✅**Résultats clés** : amélioration de la qualité des analyses, mise à disposition d’un outil de visualisation interactif  
 🛠️**Environnement** : SQL Server, R, Shiny, RStudio
@@ -140,7 +171,7 @@ Expert Power BI avec 6 ans d'expérience, spécialisé dans la transformation de
 
 ## 🎓 Formation
 
-**MASTER 2 STATISTIQUE** <br>*Université de Lorraine, France*  [*2016 --- 2017*]{.cvdate} <br>
+**MASTER 2 STATISTIQUE, appliqué Banque et Assurance** <br>*Université de Lorraine, France*  [*2016 --- 2017*]{.cvdate} <br>
 **INGÉNIEUR EN STATISTIQUE** <br> *ESSAIT Tunis, Tunisie*  [*2012 --- 2015*]{.cvdate}<br>
 **CLASSE PRÉPARATOIRE MATH‑PHYSIQUE**  <br> *Ecole préparatoire Monastire, Tunisie*  [*2010 --- 2012*]{.cvdate} 
 
